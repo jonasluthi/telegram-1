@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="st_members">
+        <item quantity="zero">inconnu</item>
+        <item quantity="one">un membre</item>
+        <item quantity="other">{d} membres</item>
+    </plurals>
+
+    <plurals name="st_new_messages">
+        <item quantity="zero">aucun nouveau message</item>
+        <item quantity="one">un nouveau message</item>
+        <item quantity="other">{d} nouveaux messages</item>
+    </plurals>
+
+    <plurals name="st_members_caps">
+        <item quantity="zero">INCONNU</item>
+        <item quantity="one">UN MEMBRE</item>
+        <item quantity="other">{d} MEMBRES</item>
+    </plurals>
+
+    <plurals name="st_dialogs">
+        <item quantity="zero"></item>
+        <item quantity="one">{d} conversation</item>
+        <item quantity="other">{d} conversations</item>
+    </plurals>
+</resources>
